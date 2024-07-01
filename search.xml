@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>离散数学 二元关系 特殊关系</title>
+      <link href="/2024/07/01/chi-san-shu-xue-er-yuan-guan-xi-te-shu-guan-xi/"/>
+      <url>/2024/07/01/chi-san-shu-xue-er-yuan-guan-xi-te-shu-guan-xi/</url>
+      
+        <content type="html"><![CDATA[<p>因为作者最近要考试离散数学了，所以想趁这个机会自己一遍复习离散数学一遍做一份知识点的清单来供给大家用。由于作者只是想做一份关于主要概念的列表，但是又并不是包含具体的概念，只是列出相关名词，然后大家自己通过自己的知识来回顾知识，作者的本意是为了自己通关这些来具体回忆，作者只是为了希望知道这些词都代表着什么含义，同时也给大家提供了一些方便，希望通过我这个列表，大家可以快速回顾主要的一些概念。</p><p>由于作者比较水，所以一些定理就不再写了…</p><h1 id="二元关系"><a href="#二元关系" class="headerlink" title="二元关系"></a>二元关系</h1><h2 id="二元关系相关概念"><a href="#二元关系相关概念" class="headerlink" title="二元关系相关概念"></a>二元关系相关概念</h2><ul><li><input disabled="" type="checkbox"> 序偶</li><li><input disabled="" type="checkbox"> 序偶相等</li><li><input disabled="" type="checkbox"> n重有序组</li><li><input disabled="" type="checkbox"> A与B的笛卡尔积</li><li><input disabled="" type="checkbox"> A1,A2,A3…An的笛卡尔积</li><li><input disabled="" type="checkbox"> 关系</li><li><input disabled="" type="checkbox"> 空关系</li><li><input disabled="" type="checkbox"> 全关系</li><li><input disabled="" type="checkbox"> 前域和后域</li><li><input disabled="" type="checkbox"> 定义域，值域和域</li><li><input disabled="" type="checkbox"> 关系矩阵</li><li><input disabled="" type="checkbox"> 布尔矩阵</li><li><input disabled="" type="checkbox"> 布尔交</li><li><input disabled="" type="checkbox"> 布尔并</li><li><input disabled="" type="checkbox"> 布尔积</li><li><input disabled="" type="checkbox"> 三个定理</li></ul><h2 id="二元关系的运算"><a href="#二元关系的运算" class="headerlink" title="二元关系的运算"></a>二元关系的运算</h2><ul><li><input disabled="" type="checkbox"> 关系的基本运算</li><li><input disabled="" type="checkbox"> 复合运算</li><li><input disabled="" type="checkbox"> 逆运算</li><li><input disabled="" type="checkbox"> 关系的幂</li><li><input disabled="" type="checkbox"> 自反闭包（对称闭包和传递闭包）</li><li><input disabled="" type="checkbox"> 鸽笼原理</li></ul><h2 id="关系的性质"><a href="#关系的性质" class="headerlink" title="关系的性质"></a>关系的性质</h2><ul><li><input disabled="" type="checkbox"> 自反性</li><li><input disabled="" type="checkbox"> 反自反性</li><li><input disabled="" type="checkbox"> 对称性</li><li><input disabled="" type="checkbox"> 反对称性</li><li><input disabled="" type="checkbox"> 传递性</li></ul><h1 id="特殊关系"><a href="#特殊关系" class="headerlink" title="特殊关系"></a>特殊关系</h1><h2 id="相容关系"><a href="#相容关系" class="headerlink" title="相容关系"></a>相容关系</h2><ul><li><input disabled="" type="checkbox"> 相容关系</li><li><input disabled="" type="checkbox"> 集合覆盖</li></ul><h2 id="等价关系"><a href="#等价关系" class="headerlink" title="等价关系"></a>等价关系</h2><ul><li><input disabled="" type="checkbox"> 等价关系</li><li><input disabled="" type="checkbox"> 同余关系</li><li><input disabled="" type="checkbox"> 划分</li><li><input disabled="" type="checkbox"> 等价类</li><li><input disabled="" type="checkbox"> 商集</li></ul><h2 id="次序关系"><a href="#次序关系" class="headerlink" title="次序关系"></a>次序关系</h2><ul><li><input disabled="" type="checkbox"> 逆序关系</li><li><input disabled="" type="checkbox"> 偏序关系</li><li><input disabled="" type="checkbox"> 哈斯图</li><li><input disabled="" type="checkbox"> 最大元</li><li><input disabled="" type="checkbox"> 最小元</li><li><input disabled="" type="checkbox"> 极大元</li><li><input disabled="" type="checkbox"> 极小元</li><li><input disabled="" type="checkbox"> 上界</li><li><input disabled="" type="checkbox"> 下界</li><li><input disabled="" type="checkbox"> 最小上界</li><li><input disabled="" type="checkbox"> 最小下界</li><li><input disabled="" type="checkbox"> 全序关系</li><li><input disabled="" type="checkbox"> 良序关系</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/2024/06/23/jin-wen-ting/"/>
       <url>/2024/06/23/jin-wen-ting/</url>
