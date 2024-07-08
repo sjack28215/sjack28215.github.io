@@ -6,7 +6,7 @@
   <link href="https://sjack28215.github.io/atom.xml" rel="self"/>
   
   <link href="https://sjack28215.github.io/"/>
-  <updated>2024-07-02T02:26:29.048Z</updated>
+  <updated>2024-07-08T14:34:54.409Z</updated>
   <id>https://sjack28215.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://sjack28215.github.io/2024/07/08/mo-yun-suan-kuai-su-mi/"/>
+    <id>https://sjack28215.github.io/2024/07/08/mo-yun-suan-kuai-su-mi/</id>
+    <published>2024-07-08T14:34:49.684Z</published>
+    <updated>2024-07-08T14:34:54.409Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;模运算&quot;&gt;&lt;a href=&quot;#模运算&quot; class=&quot;headerlink&quot; title=&quot;模运算&quot;&gt;&lt;/a&gt;模运算&lt;/h1&gt;&lt;p&gt;模运算运算规则&lt;/p&gt;
+&lt;p&gt;$$&lt;br&gt;(a + b) &#92;mod c = (a &#92;mod c+b &#92;mod c) &#92;mod</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>离散数学 图和特殊图</title>
