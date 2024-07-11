@@ -6,7 +6,7 @@
   <link href="https://sjack28215.github.io/atom.xml" rel="self"/>
   
   <link href="https://sjack28215.github.io/"/>
-  <updated>2024-07-10T10:24:54.592Z</updated>
+  <updated>2024-07-11T02:59:27.392Z</updated>
   <id>https://sjack28215.github.io/</id>
   
   <author>
@@ -17,19 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>埃氏筛</title>
     <link href="https://sjack28215.github.io/2024/07/09/ai-shi-shai/"/>
     <id>https://sjack28215.github.io/2024/07/09/ai-shi-shai/</id>
     <published>2024-07-09T05:25:00.385Z</published>
-    <updated>2024-07-10T10:24:54.592Z</updated>
+    <updated>2024-07-11T02:59:27.392Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;title-埃氏筛data-2024-07-10-10-00-00&quot;&gt;&lt;a href=&quot;#title-埃氏筛data-2024-07-10-10-00-00&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;p&gt;埃拉托色尼筛法（Sieve of Eratosthenes）是古希腊数学家埃拉托色尼提出的一种高效算法，用于寻找小于等于某个给定数 ( n ) 的所有质数。其主要思想是通过标记合数的方法来筛选出质数。埃氏筛的时间复杂度为 ( O(n &#92;log &#92;log n)</summary>
         
       
     

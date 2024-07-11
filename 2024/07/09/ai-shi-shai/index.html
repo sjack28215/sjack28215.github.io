@@ -4,9 +4,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="Hexo">
-    <meta name="description" content="
-title:埃氏筛data:2024-07-10 10:00:00  埃拉托色尼筛法（Sieve of Eratosthenes）是古希腊数学家埃拉托色尼提出的一种高效算法，用于寻找小于等于某个给定数 ( n ) 的所有质数。其主要思想是">
+    <meta name="keywords" content="埃氏筛, Hexo">
+    <meta name="description" content="埃拉托色尼筛法（Sieve of Eratosthenes）是古希腊数学家埃拉托色尼提出的一种高效算法，用于寻找小于等于某个给定数 ( n ) 的所有质数。其主要思想是通过标记合数的方法来筛选出质数。埃氏筛的时间复杂度为 ( O(n \lo">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -18,7 +17,7 @@ title:埃氏筛data:2024-07-10 10:00:00  埃拉托色尼筛法（Sieve of Eratos
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>Hexo</title>
+    <title>埃氏筛 | Hexo</title>
     <link rel="icon" type="image/png" href="/favicon.png">
     
 
@@ -338,12 +337,12 @@ title:埃氏筛data:2024-07-10 10:00:00  埃拉托色尼筛法（Sieve of Eratos
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/0.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/7.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title"></h1>
+                    <h1 class="description center-align post-title">埃氏筛</h1>
                 </div>
             </div>
         </div>
@@ -403,8 +402,7 @@ title:埃氏筛data:2024-07-10 10:00:00  埃拉托色尼筛法（Sieve of Eratos
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <hr>
-<h2 id="title-埃氏筛data-2024-07-10-10-00-00"><a href="#title-埃氏筛data-2024-07-10-10-00-00" class="headerlink" title="title:埃氏筛data:2024-07-10 10:00:00  "></a>title:埃氏筛<br>data:2024-07-10 10:00:00  </h2><p>埃拉托色尼筛法（Sieve of Eratosthenes）是古希腊数学家埃拉托色尼提出的一种高效算法，用于寻找小于等于某个给定数 ( n ) 的所有质数。其主要思想是通过标记合数的方法来筛选出质数。埃氏筛的时间复杂度为 ( O(n \log \log n) )，在处理大规模数据时非常高效。</p>
+                <p>埃拉托色尼筛法（Sieve of Eratosthenes）是古希腊数学家埃拉托色尼提出的一种高效算法，用于寻找小于等于某个给定数 ( n ) 的所有质数。其主要思想是通过标记合数的方法来筛选出质数。埃氏筛的时间复杂度为 ( O(n \log \log n) )，在处理大规模数据时非常高效。</p>
 <figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">#include&lt;bits/stdc++.h&gt;</span><br><span class="line">using namespace std;</span><br><span class="line">bool isprime[1000000];//默认是0,我们认为当是0的时候这个数是素数  </span><br><span class="line">int prime[1000000];  </span><br><span class="line">int cnt;//判断有多少个素数</span><br><span class="line">int main()</span><br><span class="line">{</span><br><span class="line">    int a;</span><br><span class="line">    cin &gt;&gt; a;</span><br><span class="line">    for(int i = 2;i &lt;= a;i ++)</span><br><span class="line">    {</span><br><span class="line">        if(!isprime[i])</span><br><span class="line">            {</span><br><span class="line">                prime[++cnt] = i;</span><br><span class="line">                for(int j = 2;i *j &lt;= a;j ++)</span><br><span class="line">                {</span><br><span class="line">                    isprime[j] = 1;</span><br><span class="line">                } </span><br><span class="line">            }</span><br><span class="line">     }</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure>
 <p>最后我们得到的prime数组中存放着素数是什么，cnt表示素数有多少个</p>
 
@@ -556,9 +554,9 @@ title:埃氏筛data:2024-07-10 10:00:00  埃拉托色尼筛法（Sieve of Eratos
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/0.jpg" class="responsive-img" alt="">
+                        <img src="/medias/featureimages/7.jpg" class="responsive-img" alt="埃氏筛">
                         
-                        <span class="card-title"></span>
+                        <span class="card-title">埃氏筛</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
